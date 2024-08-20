@@ -72,15 +72,15 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62821421082436'
-global.nomorown = '6282142108243'
-global.namebot = 'R-BOT'
-global.nameown = 'R?'
+global.nomorown = '254111807277'
+global.namebot = 'K9'
+global.nameown = 'K9'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282142108243'],
-  ['6283863727733'],
+  ['2547111807277'],
+  ['254748840328'],
   ['62838637277192'],
   ['6282142108243', 'R?', true]
   // [number, dia creator/owner?, dia developer?]
@@ -123,7 +123,7 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'FollowIG ; rasssya766'
+global.me = 'FollowIG ; justinfrost'
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
